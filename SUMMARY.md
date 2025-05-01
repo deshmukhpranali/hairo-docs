@@ -468,6 +468,7 @@
       * [TransactionResponse](sdks-and-apis/hedera-api/miscellaneous/transactionresponse.md)
       * [UncheckedSubmit](sdks-and-apis/hedera-api/miscellaneous/uncheckedsubmit.md)
   * [Hedera Status API](sdks-and-apis/hedera-status-api.md)
+  * [Test](sdks-and-apis/test.md)
 * [Support & Community](support-and-community/README.md)
   * [Hedera AI Agents Hackathon](support-and-community/hedera-ai-agents-hackathon.md)
   * [Glossary](support-and-community/glossary.md)
